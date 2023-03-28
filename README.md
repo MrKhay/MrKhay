@@ -5,7 +5,7 @@
 
 <h1 align="center"> KHAY</h1>
 
-- UI/UX designer for fun 🚀
+- Freenlance UI/UX designer 🚀
 
 - My super power is coding because it gives me the ability to create and destroy  🐱‍👤
 
