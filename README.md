@@ -5,9 +5,10 @@
 
 <h1 align="center"> KHAY</h1>
 
-- Freenlance Full Stack Developer  🚀
-
-- Super passionate on building utility software that makes life easier
+- Full Stack Developer  🚀
+- Frontend (Flutter)
+- Backend (Golang)
+- Super passionate on building solutions that solves actual problems 
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=skyblue&color=4AB197)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=skyblue&color=4AB197)
