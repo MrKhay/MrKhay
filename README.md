@@ -6,7 +6,7 @@
 <h1 align="center"> KHAY</h1>
 
 # 💫 About Me:
-🎨 **Frontend** 🎨<br>- Building delightful user experiences with Flutter 💙💙<br>- Turning ideas into beautiful, interactive apps that users love 💡<br><br>⚙️ **Backend Engineer** ⚙️<br>- Crafting robust, scalable systems with Golang ⚙️⚙️<br>- Solving complex problems with clean, efficient code 🛠️<br><br>🔥 **Passionate Problem Solver** 🔥<br>- Obsessed with creating solutions that tackle real-world challenges 💡<br>- Always up for a coding adventure and a challenge 🌟<br><br><br>🌐 **Connect with Me** 🌐<br>- Let's collaborate and make amazing things together!<br>- [LinkedIn](https://www.linkedin.com/in/orji-emmanuel-40b84a213)<br>- [Twitter](https://twitter.com/KhayBullish)
+🎨 **Frontend** 🎨<br>- Building delightful user experiences with Flutter 💙💙<br>- Turning ideas into beautiful, interactive apps that users love 💡<br><br>⚙️ **Backend Engineer** ⚙️<br>- Crafting robust, scalable systems with Golang ⚙️⚙️<br>- Solving complex problems with clean, efficient code 🛠️<br><br>🔥 **Passionate Problem Solver** 🔥<br>- Obsessed with creating solutions that tackle real-world challenges 💡<br>- Always up for a coding adventure and a challenge 🌟<br><br>
 
 
 ## 🌐 Socials:
