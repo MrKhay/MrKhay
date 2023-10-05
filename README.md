@@ -6,7 +6,7 @@
 <h1 align="center"> KHAY</h1>
 
 # 💫 About Me:
-🎨 **Frontend** 🎨<br>- Work with Flutter to build awesome user friendly experince💙💙<br>⚙️ **Backend Engineer** ⚙️<br>- Crafting robust, scalable systems with Golang<br>- Solving complex problems with clean, efficient code 🛠️<br><br>🔥 **Passionate Problem Solver** 🔥<br>- Obsessed with creating solutions that tackle real-world challenges 💡<br>- Always up for a coding adventure and a challenge 🌟<br><br>
+🎨 **Frontend** 🎨<br>- Work with Flutter to build awesome user friendly experince💙💙<br> <br/> ⚙️ **Backend Engineer** ⚙️<br>- Crafting robust, scalable systems with Golang<br>- Solving complex problems with clean, efficient code 🛠️<br><br>🔥 **Passionate Problem Solver** 🔥<br>- Obsessed with creating solutions that tackle real-world challenges 💡<br>- Always up for a coding adventure and a challenge 🌟<br><br>
 
 
 ## 🌐 Socials:
