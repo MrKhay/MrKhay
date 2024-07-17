@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center"> KHAY</h1>
+<h1 align="center"> Mr-KHAY</h1>
 
 # 💫 About Me:
 <br>- Flutter Developer with over 5 years of experience<br>- Golang Developer with well over 2 years of experience<br>- Obsessed with creating solutions that tackle real-world challenges with beautify UI 💡<br>- Always up for a coding adventure and a challenges 🌟<br><br>
